@@ -1,0 +1,17 @@
+#忽略Kaggle原始数据集（核心！绝不能上传）
+*.csv
+*.zip
+*.xlse
+*.xls 
+
+#忽略IDE文件
+.vscode/
+
+#忽略缓存文件
+__pycache__/
+*.pyc
+
+#忽略虚拟环境
+venv/   
+env/
+
